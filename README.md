@@ -1,4 +1,4 @@
-# baas-info
+# Vue + TypeScript Template
 
 ## Project setup
 ```
